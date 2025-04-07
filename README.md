@@ -3,7 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Certifications</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CompTIA Security+](https://www.credly.com/users/chris-diosa/)
+- <b>Credly</b>
+  - [Credly Account](https://www.credly.com/users/chris-diosa/)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
