@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="(https://www.linkedin.com/in/secureyourdata/)">YouTuber</a></h1>
+<h1>Hi, I'm Chris! <br/>Cybersecurity Specialist</a>, <a href="[https://www.linkedin.com/in/secureyourdata/]/">Cybersecurity Professional</a>, <a href="(https://www.linkedin.com/in/secureyourdata/)">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
