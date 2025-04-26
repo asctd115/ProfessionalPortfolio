@@ -5,7 +5,7 @@
 - <b>Certifications</b>
   - [CompTIA Security+](https://www.credly.com/users/chris-diosa/)
   - [Credly Account](https://www.credly.com/users/chris-diosa/)
-- <b>Healthcare CVE Prioritization Bot</b>
+- <b>CVE Prioritization Chatbot</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Asset Lifecycle Tracker</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
