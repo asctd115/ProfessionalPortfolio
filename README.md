@@ -1,51 +1,99 @@
-<h1>Hi, I'm Chris! <br/>Cybersecurity Specialist</a>, <a href="[https://www.linkedin.com/in/secureyourdata/]/">Cybersecurity Professional</a>, <a href="(https://www.linkedin.com/in/secureyourdata/)">YouTuber</a></h1>
+<div align="left">
+  <img src="your-image-url-here" alt="Chris Diosa" width="150" style="border-radius: 50%;">
+</div>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h1>Hi, I'm Chris! <br/>Cybersecurity Specialist Focused on Vulnerability Management</h1>
 
-- <b>Certifications</b>
-  - [CompTIA Security+](https://www.credly.com/users/chris-diosa/)
-  - [Credly Account](https://www.credly.com/users/chris-diosa/)
-- <b>CVE Prioritization Chatbot</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>Asset Lifecycle Tracker</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Vulnerability Risk Heatmap Dashboard (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Vulnerability Remediation Campaign Framework)]( )
+---
+  
+## 🚀 About Me
+Focused on building stronger, more resilient environments by identifying, prioritizing, and eliminating vulnerabilities.
 
-<h2>📺 My Personally Recommended YouTube Videos for AWS Cloud Management</h2>
+Hands-on experience managing vulnerability lifecycles (Tenable, ServiceNow), automating security workflows (Python, dashboards), and strengthening enterprise environments across healthcare and corporate sectors.
 
-- [AWS PENTESTING]([https://www.youtube.com/watch?v=a83ASGn_V_s](https://www.youtube.com/watch?v=IbqjtqTeyr0))
-- [Securing AWS Discover Cloud Vulnerabilities via Pentesting Techniques]([https://www.youtube.com/watch?v=uHy3oM7NnoU](https://www.youtube.com/watch?v=fg_hey18tio))
-- [AWS Cloud Projects: Insights from a Cloud Security Engineer]([https://www.youtube.com/watch?v=N-L9hklSlNk](https://www.youtube.com/watch?v=JMUeoVu5RRg))
+🔒 Passionate about exposure management, security engineering, automation, and red/blue team development.
 
+📚 Certifications: CompTIA Security+ | CISSP (in progress) | Ethical Hacking Foundations
+## 🛠️ Skills and Expertise
 
-<h2> 🤳 Connect with me:</h2>
+**Cybersecurity:** 🛡️🛡️🛡️🛡️🛡️  
+**Vulnerability Management (VM):** 🛡️🛡️🛡️🛡️🛡️  
+**Python Automation:** 🐍🐍🐍🐍⚪  
+**ServiceNow Security Modules:** 🖥️🖥️🖥️🖥️⚪  
+**Cloud Security (AWS):** ☁️☁️☁️⚪⚪  
+**Threat Detection & Response:** 🔍🔍🔍🔍⚪  
+**Penetration Testing Tools:** 🧰🧰🧰⚪⚪
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[youtube]: (https://www.youtube.com/@CyberMindset1/featured)
-[linkedin]: (https://www.linkedin.com/in/secureyourdata/)
+## 👨‍💻 Cybersecurity Projects
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Beginner Core Skills + Tools
+- [Nmap Critical Port Scanner](#)
+- [Linux Local Vulnerability Scanner](#)
+- [Basic Vulnerability Intake Sheet](#)
 
-Here are some ideas to get you started:
+### 🧠 Intermediate VM Projects
+- [Tenable CSV Auto Prioritizer](#)
+- [ServiceNow Vulnerability Dashboard Clone (Offline)](#)
+- [Automated Critical Patch Notification](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on healthcare security including vulnerability protections in the medical industry. 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about VM Management, Email Security Controls, AWS Cloud, NIST. 
-- 📫 How to reach me: ...
-- ⚡ Fun fact: Pizza is my CHEAT MEAL. 
--->
+### ⚡ Advanced - Real-World + Cross-Disciplinary
+- [VM Program-in-a-Box](#)
+- [Mini Threat Exposure Mapper](#)
+- [Proof of Concept - Vulnerability Exploitation (Safely in Lab)](#)
+
+### 📈 Asset Lifecycle and Incident Response Tools
+- [Windows EventLog: Failed RDP Logins Source IP to GeoData Conversion](#)
+- [JWipe (Disk Wiping Utility)](#)
+- [Active Directory Bulk User Creation](#)
+- [FIM (File Integrity Monitor)](#)
+
+### 📊 Vulnerability Risk Visualization
+- [Vulnerability Risk Heatmap Dashboard (.NET Desktop Applications)](#)
+
+### 💣 Ransomware Research and Proof of Concepts
+- [Ransomware Proof of Concept (Encrypter)](#)
+- [Ransomware Proof of Concept (Decrypter)](#)
+- [Keylogger with Email Capability](#)
+
+### 🐍 Python Projects
+- [Vulnerability Remediation Campaign Framework](#)
+
+---
+
+## 📺 My Personally Recommended YouTube Videos for AWS Cloud Management
+- [AWS Pentesting](https://www.youtube.com/watch?v=IbqjtqTeyr0)
+- [Securing AWS: Discover Cloud Vulnerabilities](https://www.youtube.com/watch?v=fg_hey18tio)
+- [AWS Cloud Projects: Insights from a Cloud Security Engineer](https://www.youtube.com/watch?v=JMUeoVu5RRg)
+
+---
+
+## 🤳 Connect with Me
+
+[<img align="left" alt="YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/@CyberMindset1/featured)
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/secureyourdata/)
+
+<br/>
+
+---
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&margin-w=15" alt="GitHub Trophy">
+</p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+## 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+# 🏷️ Tags
+`#vulnerability-management` `#cybersecurity` `#automation` `#security-engineering` `#redteam`
+
