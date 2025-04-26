@@ -80,18 +80,18 @@ Hands-on experience managing vulnerability lifecycles (Tenable, ServiceNow), aut
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&margin-w=15" alt="GitHub Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=asctd115&theme=radical&margin-w=15" alt="GitHub Trophy">
 </p>
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=asctd115&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ## 📚 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asctd115&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 # 🏷️ Tags
