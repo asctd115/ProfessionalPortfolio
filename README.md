@@ -61,9 +61,9 @@ Hands-on experience managing vulnerability lifecycles (Tenable, ServiceNow), aut
 - [Vulnerability Remediation Campaign Framework](#)
 
 
-secure-linux-pentest-workstation/
- ├── README.md             # Project Overview
- ├── installation/
+### Secure Linux Workstation, Pentesting Server from SCRATCH
+ # Project Overview
+ -[Installation]
  │     ├── base_install.md  # Step-by-step base Linux install
  │     ├── network_config.md
  │     ├── user_setup.md
