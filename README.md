@@ -60,6 +60,31 @@ Hands-on experience managing vulnerability lifecycles (Tenable, ServiceNow), aut
 ### 🐍 Python Projects
 - [Vulnerability Remediation Campaign Framework](#)
 
+
+secure-linux-pentest-workstation/
+ ├── README.md             # Project Overview
+ ├── installation/
+ │     ├── base_install.md  # Step-by-step base Linux install
+ │     ├── network_config.md
+ │     ├── user_setup.md
+ ├── hardening/
+ │     ├── firewall_setup.sh
+ │     ├── ssh_hardening.md
+ │     ├── fail2ban_config.md
+ │     ├── updates_auto.sh
+ ├── pentest_tools/
+ │     ├── install_tools.sh # Script to install tools
+ │     ├── tool_list.md     # Why each tool was chosen
+ ├── workstation_setup/
+ │     ├── install_gui.sh
+ │     ├── xfce_customizations.md
+ ├── screenshots/
+ │     └── (all screenshots showing progress)
+ └── config_files/
+       ├── sshd_config
+       ├── ufw_rules
+       └── sources_list
+
 ---
 
 ## 📺 My Personally Recommended YouTube Videos for AWS Cloud Management
